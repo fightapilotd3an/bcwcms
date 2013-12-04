@@ -82,3 +82,10 @@ Thanks!
 
 + [https://sourceforge.net/users/fightapilotdean](https://sourceforge.net/users/fightapilotdean)
 + [hhttps://www.facebook.com/fightapilotdean](https://www.facebook.com/fightapilotdean)
+
+
+
+## Distribution
+
+* With BCWCMS you should recieve the complete set of source files which include bootstrap + codeigniter documentation
+* You should recieve 3 License files in the root directory of the package. BCWCMS license, CodeIgniter License & a copy of the GPL v3
